@@ -1,4 +1,4 @@
-# dotnetcore-vuejs-template
+# aspnetcore-vuejs-template
 Template for creation of Vue JS aplications and Asp.Net Core 3.1 Web API
 
 # Features
