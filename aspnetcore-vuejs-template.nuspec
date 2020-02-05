@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>aspnetcore-vuejs-template</id>
     <version>1.0.0</version>
     <description>Starter Project Template for ASP.NET Core, Vue.JS + Vuetify + Vue Router + Vuex</description>
     <authors>Diego Vieira</authors>
     <owners>Diego Vieira</owners>
+    <license type="expression">MIT License</license>
     <projectUrl>https://github.com/dieegov/aspnetcore-vue-template</projectUrl>
     <licenseUrl>https://github.com/dieegov/aspnetcore-vue-template/blob/master/LICENSE</licenseUrl>
     <iconUrl></iconUrl>
