@@ -1,6 +1,12 @@
 # aspnetcore-vuejs-template
 Template for creation of Vue JS aplications and Asp.Net Core 3.1 Web API
 
+[![Nuget](https://img.shields.io/nuget/v/aspnetcore-vuejs-template.svg?style=for-the-badge&color=5b1096)](https://www.nuget.org/packages/aspnetcore-vuejs-template/)
+[![Nuget Downloads](https://img.shields.io/nuget/dt/aspnetcore-vuejs-template.svg?label=Nuget%20Downloads&style=for-the-badge&color=b31ae7)](https://www.nuget.org/packages/aspnetcore-vuejs-template/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&color=e51384)](/LICENSE) 
+
+---
+
 # Features
 
 - ASP.NET Core 3.1
@@ -39,7 +45,3 @@ npm install
 // Run project
 dotnet run
 ```
-
-## License
-
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://mit-license.org/)
