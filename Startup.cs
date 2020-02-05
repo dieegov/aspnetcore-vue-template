@@ -23,10 +23,10 @@ namespace aspnetcore_vuejs_template
 
             services.AddControllersWithViews();
 
-            // In production, the React files will be served from this directory
+            // In production, the Vue files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
             {
-                configuration.RootPath = "ClientApp/build";
+                configuration.RootPath = "ClientApp/dist";
             });
         }
 
@@ -40,7 +40,7 @@ namespace aspnetcore_vuejs_template
             }
 
             app.UseHttpsRedirection ();
-            app.UseStaticFiles ();
+            
             app.UseSpaStaticFiles ();
 
             app.UseRouting ();

@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Diego Vieira",
+    "classifications": [ "Web", "SPA", "WebAPI" ],
+    "identity": "aspnetcore-vuejs-template",
+    "name": "ASP.NET 3.1 + Vue + Vuex + Vuetify + Router",
+    "shortName": "vue-vuetify",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    }
+  }

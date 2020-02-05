@@ -22,9 +22,27 @@ Template for creation of Vue JS aplications and Asp.Net Core 3.1 Web API
 
 ## Getting started
 
-## Clone the starter with default configuration
+### Clone the starter with default configuration
 
 * Clone this repository `git clone https://github.com/dieegov/dotnetcore-vuejs-template`
+
+* Download it via dotnet templates
+```ts
+// Make a directory
+mkdir your-project-folder && cd your-project-folder
+
+// Download the dotnet template
+dotnet new -i aspnetcore-vuejs-template
+
+// Run and install the template
+dotnet new vue-vuetify
+
+// Make sure you install the dependencies in CLientApp folder
+npm install
+
+// Run project
+dotnet run
+```
 
 ## License
 
