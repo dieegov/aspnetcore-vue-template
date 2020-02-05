@@ -1,0 +1,32 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Diego Vieira",
+    "classifications": [
+        "Web",
+        "SPA",
+        "WebAPI"
+    ],
+    "identity": "aspnetcore-vuejs-template",
+    "name": "ASP.NET 3.1 + Vue + Vuex + Vuetify + Router",
+    "shortName": "vue-vuetify",
+    "primaryOutputs": [
+        {
+          "path": "aspnetcore-vuejs-template.csproj"
+        }
+      ],
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true,
+    "sourceName": "VueSpa",
+    "sources": [
+        {
+            "source": "./",
+            "target": "./",
+            "exclude": [
+                ".template.config/**"
+            ]
+        }
+    ]
+}
